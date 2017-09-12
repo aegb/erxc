@@ -85,6 +85,8 @@ var questions = [
 	"Favorite movie of all time?",
 	"When do you think you will be able to let go?",
 	"When will you forgive them?",
+	"Are you still hoping that everything will be back to the way it was?",
+	"Do you have the courage to confess?",
 	];
 
 
