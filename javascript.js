@@ -83,7 +83,8 @@ var questions = [
 	"What would you do if they don't love you back?",
 	"Name one country you would love to visit someday.",
 	"Favorite movie of all time?",
-	
+	"When do you think you will be able to let go?",
+	"When will you forgive them?",
 	];
 
 
