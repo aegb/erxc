@@ -63,6 +63,27 @@ var questions = [
 	"Yes or No, Is it wrong to love fully?",
 	"Favorite expression?",
 	"Tight or Loose?",
+	"Pizza or Icecream?",
+	"DSLR or Laptop?",
+	"Giver or Reciever?",
+	"Sit or Stand?",
+	"What hurts more, injection or rejection?",
+	"True love or World Peace?",
+	"Favorite Pet?",
+	"Favorite shoe brand?",
+	"Coffee or Tea?",
+	"Last time you went to the hospital?",
+	"Favorite flower?",
+	"Theme park or Mall?",
+	"Summer Vacation or Christmas Vacation?",
+	"Yes or No, Do you think you and your crush are a good match?",
+	"Forever or Lifetime?",
+	"What is one sentence that would be hard for you to believe if someone told it to you?",
+	"Last person you forgave?",
+	"What would you do if they don't love you back?",
+	"Name one country you would love to visit someday.",
+	"Favorite movie of all time?",
+	
 	];
 
 
