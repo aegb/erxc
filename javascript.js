@@ -94,7 +94,7 @@ function genQuestion() {
 	document.getElementById('fastTalkGenerator').innerHTML = questions[randomN];
 	}
 function timeLimit() {
-		var limit = setInterval(nextQ,5000);
+		var limit = setInterval(nextQ,3000);
 
 }
 function start(){
