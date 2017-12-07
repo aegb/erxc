@@ -80,13 +80,10 @@ var questions = [
 	"Forever or Lifetime?",
 	"What is one sentence that would be hard for you to believe if someone told it to you?",
 	"Last person you forgave?",
-	"What would you do if they don't love you back?",
 	"Name one country you would love to visit someday.",
 	"Favorite movie of all time?",
-	"When do you think you will be able to let go?",
-	"When will you forgive them?",
-	"Are you still hoping that everything will be back to the way it was?",
-	"Do you have the courage to confess?",
+	"Biggest lie someone ever told you?",
+	
 	];
 
 
