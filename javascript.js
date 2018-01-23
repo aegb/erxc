@@ -87,7 +87,7 @@ var questions = [
 	];
 
 
-/*I'm hella sleepy...test code of java by Eunice :D*/
+/*I'm hella sleepy...test code of javascript by Eunice :D*/
 function genQuestion() {
 	var randomN = Math.floor(Math.random() * questions.length);
 	document.getElementById('fastTalkGenerator').innerHTML = questions[randomN];
